@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm second year CS student in ITMO University. 
+I'm second year CS student at ITMO University. 
 
 ### Languages
 
