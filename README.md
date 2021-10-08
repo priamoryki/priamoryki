@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm second year CS student in ITMO University. 
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
