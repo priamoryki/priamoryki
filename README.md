@@ -1,18 +1,37 @@
 ### Hi there 👋
 
-I'm second year CS student at ITMO University. 
+I'm third year CS student at ITMO University. 
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?&logo=c%2b%2b&logoColor=00599C)&nbsp;
+<div>
+  <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="img/java.svg" title="Java" width="40" height="40"/>&nbsp;
+  <img src="img/csharp.svg" title="C#" width="40" height="40"/>&nbsp;
+  <img src="img/go.svg" title="Go" width="40" height="40"/>&nbsp;
+  <img src="img/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;
+  <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="img/kotlin.svg" title="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="img/scala.svg" title="Scala" width="40" height="40"/>&nbsp;
+</div>
+
+### Frameworks
+
+<div>
+  <img src="img/spring.svg" title="Spring" width="40" height="40"/>&nbsp;
+  <img src="img/django.svg" title="Django" width="40" height="40"/>&nbsp;
+  <img src="img/numpy.svg" title="NumPy" width="40" height="40"/>&nbsp;
+</div>
 
 ### Technologies
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<div>
+  <img src="img/git.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="img/github.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="img/docker.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="img/intellij.svg" title="Intellij" width="40" height="40"/>&nbsp;
+  <img src="img/pycharm.svg" title="PyCharm" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **priamoryki/priamoryki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
