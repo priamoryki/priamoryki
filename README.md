@@ -5,10 +5,10 @@ I'm third year CS student at ITMO University.
 ### Languages
 
 <div>
+  <img src="img/go.svg" title="Go" width="40" height="40"/>&nbsp;
   <img src="img/python.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="img/java.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="img/csharp.svg" title="C#" width="40" height="40"/>&nbsp;
-  <img src="img/go.svg" title="Go" width="40" height="40"/>&nbsp;
   <img src="img/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;
   <img src="img/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;
   <img src="img/kotlin.svg" title="Kotlin" width="40" height="40"/>&nbsp;
