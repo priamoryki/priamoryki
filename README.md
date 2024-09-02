@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm fourth year CS student at ITMO University. 
+I'm graduate of CS at ITMO University. 
 
 ### Languages
 
